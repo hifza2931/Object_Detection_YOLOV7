@@ -7,6 +7,7 @@ Object Detection Web App Using YOLOv7 and Flask
 2- Clone this github repo.
 
 3- Paste your custom model in the clone repo. I have trained yolov7 model on custom dataset which will detect car and empty spaces from given video or images.
+here you can download custom .pt file https://drive.google.com/file/d/1dDaMGUnOkUz6J30ym6wkBlrAwG0PaZQh/view?usp=drive_link
 
 4- Run :  python webapp.py
 
